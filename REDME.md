@@ -15,7 +15,7 @@
 
 - 🎗️My PortFolio link is available in [https://github.com/mansi-24082006/PortFolio](https://github.com/mansi-24082006/PortFolio)
 
-- 📝 I Regularly Dedicated about [my Work](my Work)
+- 📝 I am Regularly Dedicated about [my Work](my Work)
 
 - 💬 Ask me about **Web Development using HTML,CSS,JS,Reactjs**
 
