@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mansi Vaghasiya</h1>
-<h3 align="center">A Passionate Web Developer from Surat 🕸️</h3>
+<h3 align="center">A Passionate Mern Stack Developer from Surat 🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-24082006&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-24082006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi-24082006" alt="mansi-24082006" /></a> </p>
 
-- 🔭 I’m currently [doing](Reactjs Projects)
+- 🔭 I’m currently [doing](Mern Stack Projects)
 
 - 👨‍💻 All of my projects are available at **https://github.com/mansi-24082006**
 
-- 📚 I'm currently [learning](web development)
+- 📚 I'm currently [learning](Full Stack development)
 
 - 👩‍💻 I'm looking to collaborate on **Open Source Projects**
 
@@ -17,7 +17,7 @@
 
 - 📝 I Regularly Dedicated about [my Work](my Work)
 
-- 💬 Ask me about **Web Development using HTML,CSS,JS,Reactjs**
+- 💬 Ask me about **Web Development using Reactjs And NodeJS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vaghasiya-mansi-22457a2b2/**
 
