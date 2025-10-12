@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Vaghasiya</h1>
-<h3 align="center">A Passionate Mern Stack Developer from Surat 🕸️</h3>
+<h3 align="center">A Passionate Full Stack Developer from Surat 🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-24082006&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-24082006" /> </p>
 
