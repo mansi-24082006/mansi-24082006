@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi-24082006" alt="mansi-24082006" /></a> </p>
 
-- 🔭 I’m currently [doing](Mern Stack Projects)
+- 🔭 I’m currently Full Stack Projects
 
 - 👨‍💻 All of my projects are available at **https://github.com/mansi-24082006**
-
-- 📚 I'm currently [learning](Full Stack development)
 
 - 👩‍💻 I'm looking to collaborate on **Open Source Projects**
 
 - 🎗️My PortFolio link is available in [https://github.com/mansi-24082006/PortFolio](https://github.com/mansi-24082006/PortFolio)
 
-- 📝 I Regularly Dedicated about [my Work](my Work)
+- 📝 I Regularly Dedicated about my Work
 
 - 💬 Ask me about **Web Development using Reactjs And NodeJS**
 
