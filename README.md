@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **building and enhancing my skills in Full Stack Web Development.**
+<p>💫 About Me ✨:</p>
 
-- 📫 How to reach me **vaghasiyamansi80@gmail.com**
+- 🔭 I’m currently working on **building and enhancing my skills in Full Stack Web Development.**
 
 - 👯 I’m looking to collaborate on **innovative web application projects.**
 
 - 🌱 I’m currently learning **advanced backend concepts and system design.**
 
 - ⚡ Fun fact **I turn tough problems into simple, aesthetic, and easy-to-use designs.**
+- 
+- 📫 How to reach me **vaghasiyamansi80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
