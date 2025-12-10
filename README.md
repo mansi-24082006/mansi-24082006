@@ -4,18 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=mansi-24082006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/mansi-24082006">
-    <img src="https://github-profile-trophy.vercel.app/?username=mansi-24082006&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/mansi-24082006">
-    <img src="https://github.com/mansi-24082006.png" alt="GitHub Profile" width="100" />
-  </a>
-</p>
-
 <p>💫 About Me ✨:</p>
 
 - 🔭 I’m currently working on **building and enhancing my skills in Full Stack Web Development.**
