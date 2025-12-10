@@ -6,6 +6,12 @@
 
 <p align="left">
   <a href="https://github.com/mansi-24082006">
+    <img src="https://github-profile-trophy.vercel.app/?username=mansi-24082006&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/mansi-24082006">
     <img src="https://github.com/mansi-24082006.png" alt="GitHub Profile" width="100" />
   </a>
 </p>
