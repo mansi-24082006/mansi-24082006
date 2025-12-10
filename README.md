@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-24082006&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-24082006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi-24082006" alt="mansi-24082006" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/mansi-24082006)y"><img src="https://github.com/mansi-24082006" alt="mansi-24082006" /></a> </p>
 
 <p>💫 About Me ✨:</p>
 
